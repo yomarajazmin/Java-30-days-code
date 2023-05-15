@@ -1,1 +1,2 @@
-# Java-30-days-code
+Java mixture of exercises and solutions
+ 
