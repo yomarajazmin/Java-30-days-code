@@ -4,10 +4,8 @@ import java.util.Scanner;
 
 public class Day0_HelloWorld {
     /**
-     *
      * Problem Statement -
      * [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)
-     *
      */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
