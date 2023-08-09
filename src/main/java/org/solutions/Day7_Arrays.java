@@ -12,8 +12,8 @@ public class Day7_Arrays {
         int n = Integer.parseInt(scan.nextLine().trim());
         String[] numbers = scan.nextLine().trim().split(" ");
         scan.close();
-        for(int i=n-1;i>= 0;i--){
-            System.out.print(numbers[i]+" ");
+        for (int i = n - 1; i >= 0; i--) {
+            System.out.print(numbers[i] + " ");
         }
     }
 }
