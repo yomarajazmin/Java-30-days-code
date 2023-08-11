@@ -1,7 +1,5 @@
 package org.solutions;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Day13_Abstract_Classes {
