@@ -17,6 +17,7 @@ public class Day20_Sorting {
         List<Integer> a = Stream.of(scanner.nextLine().replaceAll("\\s+$", "").split(" "))
                 .map(Integer::parseInt)
                 .collect(toList());
+        scanner.close();
         int numberOfSwaps = 0, aux, totalSwaps = 0;
         for (int i = 0; i < n; i++) {
             totalSwaps += numberOfSwaps;
