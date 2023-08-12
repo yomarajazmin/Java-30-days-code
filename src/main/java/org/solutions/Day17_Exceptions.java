@@ -3,6 +3,11 @@ package org.solutions;
 import java.util.Scanner;
 
 public class Day17_Exceptions {
+
+    /**
+     * Problem Statement -
+     * [Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine().trim());

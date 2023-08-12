@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Day19_Interfaces {
 
+    /**
+     * Problem Statement -
+     * [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

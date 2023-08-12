@@ -4,6 +4,10 @@ import java.util.*;
 
 public class Day18_QueuesStacks {
 
+    /**
+     * Problem Statement -
+     * [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String line = scanner.nextLine().trim();

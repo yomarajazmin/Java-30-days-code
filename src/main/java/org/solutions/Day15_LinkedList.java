@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Day15_LinkedList {
 
+
+    /**
+     * Problem Statement -
+     * [Linked List](https://www.hackerrank.com/challenges/30-linked-list)
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
