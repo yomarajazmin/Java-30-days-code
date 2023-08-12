@@ -15,8 +15,8 @@ public class Day25_RunningTimeAndComplexity {
         boolean isPrime;
         while (n > 0) {
             number = Integer.parseInt(scanner.nextLine().trim());
-            if(number==1)
-                isPrime=false;
+            if (number == 1)
+                isPrime = false;
             else {
                 i = 2;
                 isPrime = true;
